@@ -1,0 +1,11 @@
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\bin\Debug\netcoreapp2.0\SingletonPatternChecking.deps.json
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\bin\Debug\netcoreapp2.0\SingletonPatternChecking.runtimeconfig.json
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\bin\Debug\netcoreapp2.0\SingletonPatternChecking.runtimeconfig.dev.json
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\bin\Debug\netcoreapp2.0\SingletonPatternChecking.dll
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\bin\Debug\netcoreapp2.0\SingletonPatternChecking.pdb
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\obj\Debug\netcoreapp2.0\SingletonPatternChecking.csprojResolveAssemblyReference.cache
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\obj\Debug\netcoreapp2.0\SingletonPatternChecking.csproj.CoreCompileInputs.cache
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\obj\Debug\netcoreapp2.0\SingletonPatternChecking.AssemblyInfoInputs.cache
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\obj\Debug\netcoreapp2.0\SingletonPatternChecking.AssemblyInfo.cs
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\obj\Debug\netcoreapp2.0\SingletonPatternChecking.dll
+F:\Temp\SingletonPatternChecking\SingletonPatternChecking\obj\Debug\netcoreapp2.0\SingletonPatternChecking.pdb
